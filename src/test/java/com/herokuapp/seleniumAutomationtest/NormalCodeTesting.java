@@ -6,8 +6,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.util.concurrent.TimeUnit;
-import java.util.*;
-public class TestCase1 {
+
+public class NormalCodeTesting {
     public static void main(String[] args) {
         WebDriver driver;
 
